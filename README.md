@@ -1,0 +1,1 @@
+Basic stylings using vue to dynamically update styles.
